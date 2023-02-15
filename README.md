@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/Danillo.araki/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/danillo-araki-0ab26836/))
 
-- 🔭 Atualmente estou migrando para área de tecnologia.
+-  Atualmente estou migrando para área de tecnologia.
 -  Estudando Fron-End
 -  Redes Sociais 
 
